@@ -1,6 +1,6 @@
 class Area{
 static void f1(){
-System.out.println("Ankita Das");
+System.out.println("Ank... Das");
 }
 static void f2(){
 System.out.println("AAAAAA");
@@ -15,7 +15,7 @@ static void fun2(){
 System.out.println("Ranjan");
 }
 public static void main(String args[]){
-System.out.println("Ankita");
+System.out.println("An....");
 fun1();
 fun2();
 Area.f1();

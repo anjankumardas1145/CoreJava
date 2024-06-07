@@ -1,9 +1,9 @@
 class Anjan{
  static void fun(){
-System.out.println("Ankita");
+System.out.println("An");
 }
  static void fun1(){
-System.out.println("ankita");
+System.out.println("an");
 }
 public static void main(String args[]){
 System.out.println("Jay Shree Ram");
