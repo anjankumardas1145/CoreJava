@@ -11,6 +11,7 @@
 /*
 class SubClass extends FinalMain {
     // This will cause a compilation error
+//final class can not be inherit
 }
 */
 
